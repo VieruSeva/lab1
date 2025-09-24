@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site lang="ro">
+  <meta>
+    <title>Expoziție de Artă 2025 • Muzeul de Artă Modernă Chișinău</title>
+    <description>Expoziție de Artă 2025 la Muzeul de Artă Modernă din Chișinău: program, artiști, bilete.</description>
+  </meta>
+  <meniu>
+    <item href="#acasa">Acasă</item>
+    <item href="#artisti">Artiști</item>
+    <item href="#program">Program</item>
+    <item href="#bilete">Bilete</item>
+    <item href="#contact">Contact</item>
+  </meniu>
+  <sectiuni>
+    <sectiune id="acasa">
+      <titlu>Artă contemporană care inspiră Chișinăul</titlu>
+      <paragraf>Între 15 octombrie – 15 noiembrie 2025, Muzeul de Artă Modernă găzduiește o selecție curatorială de pictură, sculptură și instalații multimedia ale artiștilor din Moldova și din regiune.</paragraf>
+    </sectiune>
+    <sectiune id="artisti">
+      <titlu>Artiști în prim-plan</titlu>
+      <lista_artisti>
+        <artist nume="Ana Popescu">Pictură abstractă cu accente cromatice puternice, serii inspirate din spațiul urban.</artist>
+        <artist nume="Vlad Ioniță">Instalații multimedia care explorează relația dintre om, lumină și algoritm.</artist>
+        <artist nume="Irina Cebotari">Fotografie și colaj: memorie, tradiții și identitate, reinterpretate modern.</artist>
+      </lista_artisti>
+      <paragraf>Selecție curatorială de artiști vizuali: pictură contemporană, sculptură, fotografie și instalații luminoase.</paragraf>
+    </sectiune>
+    <sectiune id="program">
+      <titlu>Programul expoziției</titlu>
+      <program>
+        <eveniment data="15.10.2025" ora="18:00">Vernisaj &amp; tur curatorial</eveniment>
+        <eveniment data="18.10.2025" ora="12:00">Atelier pentru studenți: compoziție și culoare</eveniment>
+        <eveniment data="25.10.2025" ora="12:00">Workshop instalații luminoase</eveniment>
+        <eveniment data="01.11.2025" ora="16:00">Dialog cu artiștii</eveniment>
+        <eveniment data="15.11.2025" ora="17:00">Închidere &amp; feedback public</eveniment>
+      </program>
+    </sectiune>
+    <sectiune id="bilete">
+      <titlu>Bilete</titlu>
+      <optiuni>
+        <bilet tip="Acces general">
+          <detalii>Mar–Dum: 10:00–19:00 (Luni închis)</detalii>
+          <pret unit="MDL">100</pret>
+        </bilet>
+        <bilet tip="Elevi/Studenți">
+          <detalii>Prezentarea carnetului la intrare</detalii>
+          <pret unit="MDL">50</pret>
+        </bilet>
+      </optiuni>
+    </sectiune>
+    <sectiune id="contact">
+      <titlu>Contact</titlu>
+      <adresa>Muzeul de Artă Modernă Chișinău • Str. Centrală 10 • Program: Mar–Dum 10:00–19:00</adresa>
+      <contact_info>✉️ contact@expozitie-arta.md • ☎️ +373 22 123 456</contact_info>
+      <social>Instagram: @expozitie.arta • Facebook: /expozitie.arta</social>
+    </sectiune>
+  </sectiuni>
+</site>
